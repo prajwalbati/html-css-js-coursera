@@ -1,0 +1,45 @@
+/* CSS Document*/
+
+
+.navbar-default .navbar-collapse {
+	border: none;
+}
+
+.navbar-default .navbar-brand {
+	color:white;
+}
+
+.navbar-default {
+	background-color: #444141;
+}
+
+.menu ul {
+	margin-top: -5px;
+}
+
+.menu li{
+	border: 1px solid black;
+	border-top:none;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color:white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color:#84cdf1;
+}
+
+section {
+	margin-bottom: 50px;
+}
+
+.mainContent {
+	background-color: rgba(114, 125, 103, 0.47);
+	padding: 10px 30px;
+	margin: 30px;
+}
+
+.content {
+	font-size: 17px;
+}
